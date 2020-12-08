@@ -1,17 +1,17 @@
-h1{
+h1 {
 	color: #009FBF;
 }
 
-p.bienvenue{
+p.bienvenue {
 	color: red; 
 	/*background-color: black; (c'est pour changer le fond)*/
 }
 
-p.warning{
+p.warning {	
 	color: blue;
 }
 
-body{
+body {
 	background-color: #F0FBFF;
 } 
 
